@@ -52,10 +52,8 @@ void setup() {
   }
   
   Serial.println("Scan comcluido!");
-
 }
 
 void loop() {
-
 
 }
